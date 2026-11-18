@@ -1,0 +1,7 @@
+# Research index
+- 2026-11-12 · landscape scan (see README "Known landscape")
+- 2026-11-12 · Q1 why we like what we like (gloss, curves, colour-by-association) · Gloss is widely liked and makes colour look more saturated, so "juicy vs matte" may be a finish, not a hue: store finish as its own field and try it before changing the colour
+- 2026-11-13 · Q2 Greek vs English (two blues, direct requests, emotion by language) · Greek and Russian both split blue in two and the split fades when English "blue" takes over: tag every utterance with its language and store the native colour word, not only the English one
+- 2026-11-14 · Q3 context and experience (order effects, exposure, choosing, finish vs warmth) · A judgement depends on what was seen just before, how often it was seen and whether it was chosen: store neighbours, exposure count and rated/chosen with every reaction, and confirm a like only after a cold re-look
+- 2026-11-15 · Q4 environment and culture (season, composition, daylight, training) · Colour likes follow the season and training raises interest before liking: stamp preferences with season, split like/interest/fit, and re-check autumn colour loves in spring
+- 2026-11-16 · Q5 AI memory (Zep/Graphiti, Mem0, Generative Agents, Letta, LongMemEval) · Open systems store facts with time spans but never the conditions of a taste: invalidate instead of deleting, add a conditions field, and weight recency from the last confirmation
